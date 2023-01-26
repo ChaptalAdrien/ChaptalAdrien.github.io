@@ -34,7 +34,7 @@ github_username:  jekyll
 theme: hacker
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+
 
 
 # Exclude from processing.
